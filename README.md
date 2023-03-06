@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 <img src="https://user-images.githubusercontent.com/48961406/219240161-210084d4-c52c-4fa9-aacd-2bdb31d7a5c9.png" width="48" height="44" /> ![icons8-python-48](https://user-images.githubusercontent.com/54446705/205910414-1073cec0-f694-4364-af38-77e1a8b617f3.png) ![icons8-power-bi-48](https://user-images.githubusercontent.com/54446705/205910976-7819d3ce-b535-4aa9-a594-89df5d5d49d0.png) <img src="https://user-images.githubusercontent.com/48961406/219238153-61292b88-3ac1-4c0d-b587-4698f6035380.png" width="48" height="36" />  ![icons8-microsoft-excel-48](https://user-images.githubusercontent.com/54446705/205911135-0b6e8353-8a83-440c-aa8c-7ba8eb4d3be1.png)![icons8-git-48](https://user-images.githubusercontent.com/54446705/205911285-621bfd89-b411-4479-b386-8f80c483dc41.png)![icons8-jupyter-48](https://user-images.githubusercontent.com/54446705/205911361-99aafe55-d3c1-4eaa-821f-0f2869eb55ac.png) <img src="https://user-images.githubusercontent.com/48961406/219239063-2d7cd09f-1cff-4443-bf35-83c42a2a22ef.png" width="36" height="38" />
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 
 # 📊 GitHub Stats:
